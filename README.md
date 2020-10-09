@@ -1,23 +1,6 @@
-# Appstud React-Native starter
+# La Coloc (temporary name)
 
-> react-native project
-
-This is the README to use for your new project.
-**It must be kept up-to-date at all costs.**
-
-This file should at least:
-
-- explain how to install and run the project
-- list the idiosyncrasies of the project and why it happened to be
-- explain how to solve the recurrent issues you can stumble upon while developing
-
-Now remove this header and happy coding! :)
-
----
-
-# Project name
-
-> react-native project
+> La coloc is a roommate cleaning organization system
 
 ## Technical stack
 

@@ -7,9 +7,9 @@ import { StyleSheet, View, Text } from 'react-native'
 const Example = () => (
   <View style={styles.container}>
     <View>
-      <Text style={styles.title}>Appstud React-native project starter</Text>
+      <Text style={styles.title}>React-native project starter</Text>
       <Text style={styles.text}>
-        Please (re)read the main README.md to learn how to organise your code!
+        Please (re)read the main README.md !
       </Text>
     </View>
   </View>
